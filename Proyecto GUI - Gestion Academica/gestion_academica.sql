@@ -1,0 +1,1 @@
+SELECT * FROM gestion_academica.estudiante_curso;
